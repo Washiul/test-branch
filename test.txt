@@ -1,4 +1,5 @@
 test1
+console.log('2conflict2');
 console.log('conflict1');
 this is for next version.
 
