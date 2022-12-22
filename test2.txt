@@ -1,3 +1,5 @@
 test2
 
 this is for test2.
+
+conflict1 test2
