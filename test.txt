@@ -3,4 +3,5 @@ console.log('2conflict2');
 console.log('conflict1');
 this is for next version.
 
+console.log('1 conflict 1');
 console.log('second conflict');
